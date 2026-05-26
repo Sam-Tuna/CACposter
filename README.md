@@ -1,3 +1,9 @@
+# Public assemblies used
+
+A. mexicana: https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_052426525.1/
+M. crocata: https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_029281795.1/
+
+
 # References
 
 Elías-Román, R. D., Medel-Ortiz, R., Alvarado-Rosales, D., Hanna, J. W., Ross-Davis, A. L., Kim, M. S., & Klopfenstein, N. B. (2018). Armillaria mexicana, a newly described species from Mexico. Mycologia, 110(2), 347–360. https://doi.org/10.1080/00275514.2017.1419031
