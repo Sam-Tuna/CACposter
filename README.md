@@ -8,7 +8,19 @@ Library preparation was done with the Ligation Sequencing kit (https://store.nan
 
 Read QC was done using Chopper v.0.10 (De Coster and Rademakers, 2023, https://github.com/wdecoster/chopper). 
 
+### Hybrid assembly
+
 Hybrid assembly was done with MaSuRCA v.4.1.4 (Zimin et al., 2013, https://github.com/alekseyzimin/masurca).
+
+#### Annotation software
+
+RepeatModeler v.2.0.7 (https://github.com/Dfam-consortium/RepeatModeler)
+
+RepeatMasker v.4.1.5 (https://github.com/Dfam-consortium/RepeatMasker)
+
+Genemar-ES v.73_lic (https://gatech-genemark.github.io/GeneMark-E-Docs/#/)
+
+EggNOG-mapper v.4.1.15, with the eggNOG database v.5.0 (https://github.com/eggnogdb/eggnog-mapper), 
 
 # Public assemblies used
 
