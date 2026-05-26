@@ -1,4 +1,20 @@
 # Things that didn't fit in the poster:
+## Multiple sequence alignment nightingale plots of each CAC gene
+### LUZ
+
+![alt text](https://github.com/Sam-Tuna/CACposter/blob/main/luz_alins.png?raw=true)
+
+### H3H
+
+![alt text](https://github.com/Sam-Tuna/CACposter/blob/main/H3H_nightingale.png?raw=true)
+
+### CPH
+
+![alt text](https://github.com/Sam-Tuna/CACposter/blob/main/CPH_nightingale.png?raw=true)
+
+### HISPS
+
+![alt text](https://github.com/Sam-Tuna/CACposter/blob/main/HISPS_nightingale.png?raw=true)
 
 ## N. gardneri sequencing and assembly
 ### Illumina data
