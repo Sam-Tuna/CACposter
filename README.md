@@ -1,10 +1,27 @@
+# N. gardneri sequencing and assembly
+### Illumina data
+Sequencing was performed by Macrogen (South Korea).
+Read QC was done using TrimGalore v.0.6.1 (https://github.com/FelixKrueger/TrimGalore)
+
+### Nanopore data
+Library preparation was done with the Ligation Sequencing kit (https://store.nanoporetech.com/ligation-sequencing-kit-v14.html). Sequencing was performed on an R10.4 flow cell, and dorado was used for basecalling, with the sup v.5.0.0 model.
+
+Read QC was done using Chopper v.0.10 (De Coster and Rademakers, 2023, https://github.com/wdecoster/chopper). 
+
+Hybrid assembly was done with MaSuRCA v.4.1.4 (Zimin et al., 2013, https://github.com/alekseyzimin/masurca).
+
 # Public assemblies used
 
 A. mexicana: https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_052426525.1/
+
 M. crocata: https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_029281795.1/
 
 
 # References
+
+Aleksey V. Zimin, Guillaume Marçais, Daniela Puiu, Michael Roberts, Steven L. Salzberg, James A. Yorke, The MaSuRCA genome assembler, Bioinformatics, Volume 29, Issue 21, November 2013, Pages 2669–2677, https://doi.org/10.1093/bioinformatics/btt476
+
+Wouter De Coster, Rosa Rademakers, NanoPack2: population-scale evaluation of long-read sequencing data, Bioinformatics, Volume 39, Issue 5, May 2023, btad311, https://doi.org/10.1093/bioinformatics/btad311
 
 Elías-Román, R. D., Medel-Ortiz, R., Alvarado-Rosales, D., Hanna, J. W., Ross-Davis, A. L., Kim, M. S., & Klopfenstein, N. B. (2018). Armillaria mexicana, a newly described species from Mexico. Mycologia, 110(2), 347–360. https://doi.org/10.1080/00275514.2017.1419031
 
