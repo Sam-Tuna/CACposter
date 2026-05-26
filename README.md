@@ -1,4 +1,6 @@
-# N. gardneri sequencing and assembly
+# Things that didn't fit in the poster:
+
+## N. gardneri sequencing and assembly
 ### Illumina data
 Sequencing was performed by Macrogen (South Korea).
 Read QC was done using TrimGalore v.0.6.1 (https://github.com/FelixKrueger/TrimGalore)
@@ -22,14 +24,14 @@ Genemar-ES v.73_lic (https://gatech-genemark.github.io/GeneMark-E-Docs/#/)
 
 EggNOG-mapper v.4.1.15, with the eggNOG database v.5.0 (https://github.com/eggnogdb/eggnog-mapper), 
 
-# Public assemblies used
+## Public assemblies used
 
 A. mexicana: https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_052426525.1/
 
 M. crocata: https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_029281795.1/
 
 
-# References
+## References
 
 Aleksey V. Zimin, Guillaume Marçais, Daniela Puiu, Michael Roberts, Steven L. Salzberg, James A. Yorke, The MaSuRCA genome assembler, Bioinformatics, Volume 29, Issue 21, November 2013, Pages 2669–2677, https://doi.org/10.1093/bioinformatics/btt476
 
